@@ -8,5 +8,5 @@ Inicio
    Leia (N1)
    T <- N1 * 3
    M <- N1 / 2
-   Escreva (" O triplço é: ", T , " A metade é: ", M)
+   Escreva (" O triplo é: ", T , " A metade é: ", M)
 Fimalgoritmo
